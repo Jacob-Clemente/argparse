@@ -1,0 +1,5 @@
+project: argparse
+target: basic
+
+cmds:
+  - cmd: /basic @@
